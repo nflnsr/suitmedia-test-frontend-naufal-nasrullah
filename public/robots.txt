@@ -1,0 +1,6 @@
+User-Agent: *
+Allow: /
+
+User-Agent: Googlebot
+Allow: /
+Sitemap: https://suitmedia-naufal-nasrullah.vercel.app/sitemap.xml

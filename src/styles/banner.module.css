@@ -1,0 +1,4 @@
+img {
+    -webkit-clip-path: polygon(0 0, 0 200px, 200px 10px, 200px 0);
+    clip-path: polygon(0 0, 0 800px, 0px 500px, 4500px 0);
+  }
