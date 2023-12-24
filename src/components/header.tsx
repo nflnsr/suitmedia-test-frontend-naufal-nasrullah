@@ -11,6 +11,7 @@ export function Header() {
     const activeState: HTMLElement = document.getElementById(
       `${path}-link`,
     ) as HTMLElement;
+    if (!activeState) return ;
     activeState.className = "underline decoration-4 underline-offset-[14px]";
 
     return () => {
